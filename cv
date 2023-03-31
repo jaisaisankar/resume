@@ -1,0 +1,170 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jai sai sankar</title>
+    <style>
+        h1 {text-align: center;}
+        .myline{ border: 5px outset green;text-align: center;}
+        .text{ border: 3px outset yellow;text-align: center;}
+    </style>
+</head>
+<body>
+    <div class="text">
+    <h1 style="color: red;">Jai Sai Sankar</h1>
+    <div class="myline">
+        <p><strong class="text-uppercase"> frist resume creation using html</strong></p>
+    </div>
+    <div class="collapse navbar-collapse justify-content-end" id="navigation">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
+          <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
+          <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="profile-page">
+        <div class="wrapper">
+          <div class="page-header page-header-small" filter-color="green">
+            <div class="container">
+              <div class="content-center">
+                <div><img src="jai's photo.jpg" alt="Image" width="data-aos-anchor-placement" height="data-aos-anchor-placement"></div>
+                <div class="h2 title">Jai Sai Sankar</div>
+                <p class="category text-white">Web Developer,content reviewer,legal review consultent</p>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="section" id="about">
+            <div class="container">
+              <div class="card" data-aos="fade-up" data-aos-offset="10">
+                <div class="row">
+                  <div class="col-lg-6 col-md-12">
+                    <div class="card-body">
+                      <div class="h4 mt-0 title">About</div>
+                      <p>Hello! I am Jai Sai Sankar. Web Developer, Content Reviewer and Legal consultent.</p>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-md-12">
+                    <div class="card-body">
+                      <div class="h4 mt-0 title">Basic Information</div>
+                      <div class="row">
+                        <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
+                        <div class="col-sm-8">24</div>
+                      </div>
+                      <div class="row mt-3">
+                        <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
+                        <div class="col-sm-8">tjsaishankar@gmail.com</div>
+                      </div>
+                      <div class="row mt-3">
+                        <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
+                        <div class="col-sm-8">+91 7095243257</div>
+                      </div>
+                      <div class="row mt-3">
+                        <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
+                        <div class="col-sm-8">Main road,shermohammadpet,jaggayyapet mandal</div>
+                      </div>
+                      <div class="row mt-3">
+                        <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
+                        <div class="col-sm-8">English, Telugu, Hindi</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="section" id="skill">
+            <div class="container">
+              <div class="card" data-aos="fade-up" data-aos-offset="10">
+                <div class="row">
+                  <div class="col-lg-6 col-md-12">
+                    <div class="card-body">
+                      <div class="h4 mt-0 title">Skills</div>
+                      <p>Hello! I am Jai Sai Sankar. Web Developer, Content Reviewer and Legal consultent.</p>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-md-12">
+                    <div class="card-body">
+                      <div class="h4 mt-0 title">Technical Skills</div>
+                      <div class="row">
+                        <div class="col-sm-4"><strong class="text-uppercase">Python:</strong></div>
+                        <div class="col-sm-8">Basic</div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-4"><strong class="text-uppercase">HTML:</strong></div>
+                        <div class="col-sm-8">Intermidate</div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-4"><strong class="text-uppercase">JavaScript:</strong></div>
+                        <div class="col-sm-8">Basic</div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-4"><strong class="text-uppercase">C-Programming Language:</strong></div>
+                        <div class="col-sm-8">Intermidate</div>
+                      </div> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            </div>
+            <div class="section" id="experience">
+                <div class="container">
+                  <div class="card" data-aos="fade-up" data-aos-offset="10">
+                    <div class="row">
+                      <div class="col-lg-6 col-md-12">
+                        <div class="card-body">
+                          <div class="h4 mt-0 title">Experience</div>
+                          <p>I have experience as service engineer And Assosiate in Wipro</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-6 col-md-12">
+                        <div class="card-body">
+                          <div class="h4 mt-0 title">As service Engineer</div>
+                          <div class="row">
+                            <div class="col-sm-4"><strong class="text-uppercase">Installation and maintence of Ingersoll Rand air commpressors.</strong></div>
+                          </div>
+                          <div class="h4 mt-0 title">Associate</div>
+                          <div class="row">
+                            <div class="col-sm-4"><strong class="text-uppercase">As Associate worked in client project mangment as a Content reviewr, Identity Operations person and legal consultent.</strong></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+                <div class="section" id="contact">
+                    <div class="container">
+                      <div class="card" data-aos="fade-up" data-aos-offset="10">
+                        <div class="row">
+                          <div class="col-lg-6 col-md-12">
+                            <div class="card-body">
+                              <div class="h4 mt-0 title">Contact</div>
+                              <p>Contact Via</p>
+                            </div>
+                          </div>
+                          <div class="col-lg-6 col-md-12">
+                            <div class="card-body">
+                              <div class="h4 mt-0 title">Email</div>
+                              <div class="row">
+                                <a href="mailto:email@example.com">tjsaishankar@gmail.com</a>
+                              </div>
+                              <div class="h4 mt-0 title">Mobile Number</div>
+                              <div class="row">
+                                <div class="col-sm-4"><strong class="text-bold">+91 7095243257</strong></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    </div>
+    </div>           
+</body>
+</html>
